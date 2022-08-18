@@ -66,9 +66,6 @@
 
 <h3 align="center">Backend</h3>
 <p align="center">
- 
- 
-  
     <a href="https://spring.io/" target="_blank"> 
       <img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /> 
   </a>
@@ -78,9 +75,7 @@
   <a href="https://spring.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
   </a>
-  
-  
-  
+
 </p>
 
 <h3 align="center">Database</h3>
