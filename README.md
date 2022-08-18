@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Backend Design**
 
-- 👨‍💻 All of my projects are available [@ekhan4077](/)
+- 👨‍💻 All of my projects are available [@ekhan4077]
 
 - 💬 Ask me about **Java Programming and Philosophy 😆**
 
